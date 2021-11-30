@@ -1,0 +1,6 @@
+{
+    "REGION": "us-east-1",
+    "NSEC_DATA_TABLE": "nsec_data",
+    "SALES_RABBIT_API": "https://api.salesrabbit.com",
+    "RABBIT_USER_ID": "911705149"
+}
